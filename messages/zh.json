@@ -1,0 +1,59 @@
+{
+  "Navigation": {
+    "cabins": "小屋",
+    "about": "关于我们",
+    "guestArea": "客人区域"
+  },
+  "About": {
+    "title": "关于我们",
+    "welcomeTitle": "欢迎来到荒野绿洲",
+    "welcomeParagraph1": "自然美景与舒适生活完美融合的地方。隐藏在意大利多洛米蒂山脉的中心，这里是您远离家乡的天堂。但这不仅仅关于豪华小屋。这是关于与大自然重新连接并与家人享受简单乐趣的体验。",
+    "welcomeParagraph2": "我们的8间豪华小屋提供舒适的基地，但真正的自由和宁静您将在周围的山脉中找到。漫步在郁郁葱葱的森林中，呼吸新鲜空气，从篝火或热水浴缸的温暖中看着星星在上方闪烁。",
+    "welcomeParagraph3": "这是创造难忘时刻的地方，被大自然的壮丽所环绕。这是一个放慢脚步、放松身心、感受在美丽环境中团聚的快乐的地方。",
+    "image1Alt": "一家人坐在小屋前的火坑旁",
+    "image2Alt": "经营荒野绿洲的一家人",
+    "managedTitle": "自1962年以来由我们的家族经营",
+    "managedParagraph1": "自1962年以来，荒野绿洲一直是一个备受珍视的家族经营度假胜地。由我们的祖父母创立，这个避风港用爱和关怀培育，通过我们的家族传承下来，证明我们致力于创造一个温馨、热情的环境。",
+    "managedParagraph2": "多年来，我们保持了荒野绿洲的本质，将山脉的永恒美景与只有家族企业才能提供的个人触感融合在一起。在这里，您不仅仅是客人；您是我们大家庭的一部分。所以快来加入我们，在荒野绿洲，传统与宁静相遇，每一次访问都像回家一样。",
+    "exploreCabins": "探索我们的豪华小屋"
+  },
+  "Cabins": {
+    "title": "小屋",
+    "header": "我们的豪华小屋",
+    "description": "舒适而豪华的小屋，位于意大利多洛米蒂山脉的中心。想象一下，在美丽的山景中醒来，花时间探索周围的黑暗森林，或者只是在星空下的私人热水浴缸中放松。在您远离家乡的小天地中享受大自然的美。这是一个宁静、平静的度假胜地。欢迎来到天堂。"
+  },
+  "CabinCard": {
+    "cabin": "小屋",
+    "forUpTo": "最多可容纳",
+    "guests": "位客人",
+    "perNight": "/ 晚",
+    "detailsAndReservation": "详情与预订 →"
+  },
+  "SideNavigation": {
+    "home": "首页",
+    "reservations": "预订",
+    "guestProfile": "客人资料"
+  },
+  "Account": {
+    "title": "更新资料",
+    "welcome": "欢迎，",
+    "yourReservations": "您的预订",
+    "noReservations": "您还没有预订。查看我们的",
+    "luxuryCabins": "豪华小屋 →",
+    "updateProfile": "更新您的客人资料",
+    "profileDescription": "提供以下信息将使您的入住过程更快更顺畅。期待很快见到您！"
+  },
+  "SignOut": {
+    "signOut": "注销"
+  },
+  "HomePage": {
+    "welcomeTitle": "欢迎来到天堂",
+    "exploreCabins": "探索豪华小屋",
+    "backgroundAlt": "山脉和森林与两间小屋"
+  },
+  "Layout": {
+    "siteName": "荒野绿洲",
+    "welcome": "欢迎",
+    "description": "豪华小屋酒店，位于意大利多洛米蒂山脉的中心，周围环绕着美丽的山脉和茂密的森林"
+  }
+}
