@@ -9,7 +9,7 @@ export const revalidate = 86400
 export async function generateMetadata() {
   const t = await getTranslations('About')
   return {
-    title: t('About'),
+    title: t('title'),
   }
 }
 
